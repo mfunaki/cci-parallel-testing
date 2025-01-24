@@ -32,7 +32,6 @@ workflows:
   build-and-test:
     jobs:
       - build-and-test:
-          parallelism: 3
           filters:
             branches:
               only:
