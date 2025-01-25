@@ -1,4 +1,6 @@
 # cci-parallel-testing
 Parallel testing with CircleCI
 
-Flaky test: module04_test.py
+## Release notes
+# 20250125
+- Renamed test file names to SS_seconds_test.py
